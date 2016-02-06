@@ -23,6 +23,6 @@ gem 'jbuilder'
 
 # Deploy with Capistrano
 # gem 'capistrano', :group => :development
-
+gem 'byebug'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
